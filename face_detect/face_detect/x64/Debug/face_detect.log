@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\jihaeson\desktop\opencvproject\face_detect\face_detect\main.cpp(134): error C2660: 'fopen_s': 함수는 2개의 매개 변수를 사용하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(96): note: 'fopen_s' 선언을 참조하십시오.
